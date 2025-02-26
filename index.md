@@ -10,6 +10,7 @@
 - [Neighbourhood Information](#neighbourhood-information)
 
 ## Welcome Section
+
 Welcome, Sam and Millie! 😊
 
 We are so delighted to pass on 6 Croot Place to you both. This has been a home filled with wonderful memories, and we hope it will bring you as much joy as it has brought us. The neighbourhood is fantastic, and we’ve loved being part of the community here at St. Luke’s Park.
