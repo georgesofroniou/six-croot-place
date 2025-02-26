@@ -1,25 +1,15 @@
-# 6 Croot Place
+# 6 Croot Place <!-- omit in toc -->
 
-- [6 Croot Place](#6-croot-place)
-  - [**Welcome Section**](#welcome-section)
-  - [**Property Overview**](#property-overview)
-    - [Standout Features](#standout-features)
-  - [Council Information \& Services](#council-information--services)
-    - [**Council**](#council)
-    - [**Waste Collection Services**](#waste-collection-services)
-  - [Utilities and Services](#utilities-and-services)
-    - [**Utility Providers**](#utility-providers)
-    - [**Meter Locations**](#meter-locations)
-  - [Security \& Alarm](#security--alarm)
-    - [Alarm System](#alarm-system)
-    - [Miscellaneous Security](#miscellaneous-security)
-  - [**Appliance Information**](#appliance-information)
-  - [**Maintenance and Repairs**](#maintenance-and-repairs)
-  - [**Neighbourhood Information**](#neighbourhood-information)
-    - [**Local Amenities**](#local-amenities)
-    - [**Emergency Contacts**](#emergency-contacts)
+- [Welcome Section](#welcome-section)
+- [Property Overview](#property-overview)
+- [Council Information and Services](#council-information-and-services)
+- [Utilities and Services](#utilities-and-services)
+- [Security \& Alarm](#security--alarm)
+- [Appliance Information](#appliance-information)
+- [Maintenance and Repairs](#maintenance-and-repairs)
+- [Neighbourhood Information](#neighbourhood-information)
 
-## **Welcome Section**
+## Welcome Section
 Welcome, Sam and Millie! 😊
 
 We are so delighted to pass on 6 Croot Place to you both. This has been a home filled with wonderful memories, and we hope it will bring you as much joy as it has brought us. The neighbourhood is fantastic, and we’ve loved being part of the community here at St. Luke’s Park.
@@ -32,7 +22,7 @@ George & Carolina 💚
 
 ---
 
-## **Property Overview**
+## Property Overview
 
 We are sure you will have this information from Beresfords and viewing however can also be helpful if needed in the future.
 
@@ -49,9 +39,9 @@ We are sure you will have this information from Beresfords and viewing however c
   * Living Spaces: Open-plan living/dining/kitchen area
   * Loft Space: Yes – accessible via the second bedroom at the front of the house; not currently boarded but can be.
 * Council Tax Band D
-* EPC B
+* EPC B [Gov.uk | Energy performance certificate (EPC)](https://find-energy-certificate.service.gov.uk/energy-certificate/0975-3810-7739-2020-5775)
 
-### Standout Features
+### Standout Features <!-- omit in toc -->
 
 Here's the blurb from Beresfords Marketing:
 
@@ -72,9 +62,9 @@ At a glance:
 
 ---
 
-## Council Information & Services
+## Council Information and Services
 
-### **Council**
+### Council <!-- omit in toc -->
 
 * **Council**: Chelmsford City Council  
 * **Contact**:  
@@ -89,7 +79,7 @@ At a glance:
 
 ---
 
-### **Waste Collection Services**
+### Waste Collection Services <!-- omit in toc -->
 
 * **Bin Collection Schedule**:  
   * Weekly collections alternate between recycling and general waste.  
@@ -101,14 +91,14 @@ At a glance:
 
 ## Utilities and Services
 
-### **Utility Providers**
+### Utility Providers <!-- omit in toc -->
 
 * **Electricity Provider**: British Gas.
 * **Gas Provider**: British Gas.
 * **Water & Sewage Supplier**: Essex & Suffolk Water.
 * **Internet/TV Provider**: Hyperoptic Broadband; _Fibre broadband installed directly into the house. For guaranteed coverage I'd recommend a mesh wifi router/extender. I bought [Linksys Velop](https://www.amazon.co.uk/dp/B01N5M9NNB?th=1) however Hyperoptic may be able to assist._
 
-### **Meter Locations**
+### Meter Locations <!-- omit in toc -->
 
 * **Electricity Meter**: Cupboard understairs.  
 * **Gas Meter**: Outside wall of drive.
@@ -119,7 +109,7 @@ At a glance:
 
 ## Security & Alarm
 
-### Alarm System
+### Alarm System <!-- omit in toc -->
 
 * Installed by: [RPA Security](https://www.rpa-security.co.uk/)
   * Richard Albrow
@@ -149,7 +139,7 @@ At a glance:
   * Unset: Partially sets the alarm except for areas where the PIR will track sensors.
   * Set: Sets the alarm in full.
 
-### Miscellaneous Security
+### Miscellaneous Security <!-- omit in toc -->
 
 Please see the camera items we have left for you. Please note we will take a screen-recording of us disabling the cameras etc from our account for your peace of mind! 😊
 
@@ -176,13 +166,13 @@ Please see the camera items we have left for you. Please note we will take a scr
 
 ---
 
-## **Appliance Information**
+## Appliance Information
 
 Please see the box we have left that contains all of the instruction manuals for appliances, heating system and any warranties.
 
 ---
 
-## **Maintenance and Repairs**
+## Maintenance and Repairs
 
 * **Boiler Information**:
   * Boiler information contained within the box left.
@@ -203,11 +193,11 @@ Please see the box we have left that contains all of the instruction manuals for
 
 ---
 
-## **Neighbourhood Information**
+## Neighbourhood Information
 
 As you are local I am sure you will know everything about the area but some facts from us.
 
-### **Local Amenities**
+### Local Amenities <!-- omit in toc -->
 
 * **Supermarkets**:
   * Co-op Food: Located within St. Luke’s Park, just a short walk away. We'd recommend creating an account and getting the member card as handy savings on essential items and weekly deals.
@@ -226,7 +216,7 @@ As you are local I am sure you will know everything about the area but some fact
   * Local Bus Routes: Service 8 connects Runwell and Wickford Station; Service 10 links to Basildon Hospital and surrounding areas.
     * X10: Route to Stanstead and Basildon; the Basildon Route will take you to Wickford Station.
 
-### **Emergency Contacts**
+### Emergency Contacts <!-- omit in toc -->
 
 * **GP Surgery**:
   * My surgery has always stayed in Billericay but Carolina used the [Swanwood Partnership](https://www.swanwood.com/).
