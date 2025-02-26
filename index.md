@@ -1,5 +1,24 @@
 # 6 Croot Place
 
+- [6 Croot Place](#6-croot-place)
+  - [**Welcome Section**](#welcome-section)
+  - [**Property Overview**](#property-overview)
+    - [Standout Features](#standout-features)
+  - [Council Information \& Services](#council-information--services)
+    - [**Council**](#council)
+    - [**Waste Collection Services**](#waste-collection-services)
+  - [Utilities and Services](#utilities-and-services)
+    - [**Utility Providers**](#utility-providers)
+    - [**Meter Locations**](#meter-locations)
+  - [Security \& Alarm](#security--alarm)
+    - [Alarm System](#alarm-system)
+    - [Miscellaneous Security](#miscellaneous-security)
+  - [**Appliance Information**](#appliance-information)
+  - [**Maintenance and Repairs**](#maintenance-and-repairs)
+  - [**Neighbourhood Information**](#neighbourhood-information)
+    - [**Local Amenities**](#local-amenities)
+    - [**Emergency Contacts**](#emergency-contacts)
+
 ## **Welcome Section**
 Welcome, Sam and Millie! 😊
 
