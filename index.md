@@ -4,7 +4,7 @@
 - [Property Overview](#property-overview)
 - [Council Information and Services](#council-information-and-services)
 - [Utilities and Services](#utilities-and-services)
-- [Security \& Alarm](#security--alarm)
+- [Security and Alarm](#security-and-alarm)
 - [Appliance Information](#appliance-information)
 - [Maintenance and Repairs](#maintenance-and-repairs)
 - [Neighbourhood Information](#neighbourhood-information)
@@ -108,7 +108,7 @@ At a glance:
 
 ---
 
-## Security & Alarm
+## Security and Alarm
 
 ### Alarm System <!-- omit in toc -->
 
