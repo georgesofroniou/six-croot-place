@@ -20,7 +20,7 @@ We are sure you will have this information from Beresfords and viewing however c
 * Address
   * 6 Croot Place, Runwell, Wickford, Essex, England
   * [Google Maps](https://maps.app.goo.gl/VBBKTMAqTruNFBnH6)
-  * [**what3words |** *juicy.guitar.stream*](https://w3w.co/juicy.guitar.stream)
+  * [**what3words:** *juicy.guitar.stream*](https://w3w.co/juicy.guitar.stream)
 * Year Built: 2020
 * Type of Property: Semi-detached
 * Number of Rooms:
