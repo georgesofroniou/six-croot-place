@@ -1,3 +1,4 @@
+<link rel="shortcut icon" type="image/x-icon" href="favicon.ico">
 # 6 Croot Place <!-- omit in toc -->
 
 - [Welcome Section](#welcome-section)
